@@ -1,2 +1,1 @@
-# KaraGalloway.github.io
-Final Project website
+# FINAL PROJECT

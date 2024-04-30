@@ -151,5 +151,6 @@ However, my sample size was quite small and over a pretty short time period. I t
 &nbsp;  
 &nbsp;  
 &nbsp;  
+
 ### Conclusion
 The biggest take-away for me was honestly: I wish I had more data!!! This project really made me want to keep studying Utah Lake so I could find some really solid correlations. I really enjoyed being able to use my own data for this final project and learn so many things about R.
